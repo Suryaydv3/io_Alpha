@@ -4,14 +4,15 @@ Table of Contents
 •	Problem Statement
 •	Tech Stack
 •	Setup Instructions
-o	Prerequisites
-o	Cloning the Repository
-o	Exporting Compiled Binary
-o	Setting Up Arduino Project
+•	Prerequisites
+•	Cloning the Repository
+•	Exporting Compiled Binary
+•	Setting Up Arduino Project
 •	Development
 •	Usage
 •	Contribution Guidelines
 •	License
+
 ________________________________________
 **Introduction**
 This project focuses on creating a Digital Twin for a water distribution network aimed at efficient water management. By simulating and monitoring the water network, it helps reduce water waste and improve resource access. The system includes an IoT device simulation, integration with Arduino, and a Machine Learning model for predictive analysis.
