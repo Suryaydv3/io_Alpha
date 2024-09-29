@@ -1,17 +1,17 @@
 **Alpha Team** - **Digital Twin for Water Management**
 Table of Contents
-•	Introduction
-•	Problem Statement
-•	Tech Stack
-•	Setup Instructions
-•	Prerequisites
-•	Cloning the Repository
-•	Exporting Compiled Binary
-•	Setting Up Arduino Project
-•	Development
-•	Usage
-•	Contribution Guidelines
-•	License
+  •	Introduction
+  •	Problem Statement
+  •	Tech Stack
+  •	Setup Instructions
+  •	Prerequisites
+  •	Cloning the Repository
+  •	Exporting Compiled Binary
+  •	Setting Up Arduino Project
+  •	Development
+  •	Usage
+  •	Contribution Guidelines
+  •	License
 
 ________________________________________
 **Introduction**
