@@ -1,4 +1,4 @@
-Alpha Team - Digital Twin for Water Management
+**Alpha Team** - **Digital Twin for Water Management**
 Table of Contents
 •	Introduction
 •	Problem Statement
@@ -13,18 +13,18 @@ o	Setting Up Arduino Project
 •	Contribution Guidelines
 •	License
 ________________________________________
-Introduction
+**Introduction**
 This project focuses on creating a Digital Twin for a water distribution network aimed at efficient water management. By simulating and monitoring the water network, it helps reduce water waste and improve resource access. The system includes an IoT device simulation, integration with Arduino, and a Machine Learning model for predictive analysis.
 Problem Statement
 "Digital Twin for Water Management: Develop a digital twin of a water distribution network that helps manage water resources efficiently, reducing waste and improving access."
 ________________________________________
-Tech Stack
+**Tech Stack**
 •	Hardware Simulation: Arduino IDE
 •	IoT Integration: Water sensor simulation in Arduino
 •	Machine Learning: Prediction model (ML model from dital_twin.zip)
 •	Languages: C++, Python
 ________________________________________
-Setup Instructions
+**Setup Instructions**
 Prerequisites
 •	Git
 •	Arduino IDE
@@ -48,14 +48,14 @@ Step 2: Setting Up Arduino Project in Proteus
 4.	Double-click on the board and navigate to the Program File field.
 5.	Browse and select the exported compiled binary (.hex file) from the Arduino sketch created in Step 1.
 ________________________________________
-Development
-The core of the development process revolves around simulating the water distribution network using IoT sensors and Arduino. The Machine Learning model for predictive maintenance is located in the dital_twin.zip file.
+**Development**
+The core of the development process revolves around simulating the water distribution network using IoT sensors and Arduino(optional). The Machine Learning model for predictive maintenance is located in the dital_twin.zip file.
 ________________________________________
-Usage
+**Usage**
 1.	Once the setup is complete, simulate the water distribution network using Proteus and Arduino.
 2.	Use the Machine Learning model from dital_twin.zip for real-time prediction and analysis of water management, helping reduce waste and optimize resource allocation.
 ________________________________________
-Contribution Guidelines
+**Contribution Guidelines**
 1.	Fork the repository.
 2.	Create a new branch: git checkout -b feature-branch.
 3.	Make your changes.
@@ -63,6 +63,6 @@ Contribution Guidelines
 5.	Push to the branch: git push origin feature-branch.
 6.	Open a pull request.
 ________________________________________
-License
+**License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
